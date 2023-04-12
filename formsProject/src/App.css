@@ -70,3 +70,12 @@
   color: white;
   background-color: green;
 }
+
+.task-update {
+  width: 100%;
+}
+
+.update-button {
+  background-color: blueviolet;
+  
+}
