@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-const TaskCreate = ({onCreate}) => {
+const TaskCreate = ({onCreate , task , taskFormUpdate}) => {
 
     const [title, setTitle] = useState("");
     const [taskDesc, setTaskDesc] = useState("");
